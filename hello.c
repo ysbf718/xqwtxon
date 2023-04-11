@@ -3,6 +3,6 @@
 int main(void)
 
 {
-    printf("hello cs50,");
+    get_get_string("hello cs50,");
     printf("hello ")
 }
